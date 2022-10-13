@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <q-card v-for="c in 10" :key="c">
       <div class="text-center bg-primary text-white">멤버</div>
       <q-card-section>
-        홍길동
+        나건호  
       </q-card-section>
     </q-card>
   </div>
